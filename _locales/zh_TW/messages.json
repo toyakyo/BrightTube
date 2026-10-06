@@ -1,0 +1,5 @@
+{
+  "extName": { "message": "BrightTube" },
+  "extDescription": { "message": "用單選鈕調整 YouTube 影片亮度：0%、10%、30%、50%、70%、100%，夜間觀看更護眼。" },
+  "brightnessLabel": { "message": "亮度" }
+}

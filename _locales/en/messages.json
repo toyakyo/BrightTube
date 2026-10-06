@@ -1,0 +1,5 @@
+{
+  "extName": { "message": "BrightTube" },
+  "extDescription": { "message": "Dim YouTube videos with a simple radio choice: 0%, 10%, 30%, 50%, 70% or 100% brightness. Easy on the eyes at night." },
+  "brightnessLabel": { "message": "Brightness" }
+}
