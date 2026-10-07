@@ -7,7 +7,10 @@ Dim YouTube videos with a simple radio choice: 0%, 10%, 30%, 50%, 70% or 100% br
 - The setting is stored with `chrome.storage.sync`. No data is collected.
 - [Privacy Policy / 隱私權政策](store/privacy-policy.md)
 
-## Install (developer mode)
+## Install
+[**Add to Chrome — Chrome Web Store**](https://chromewebstore.google.com/detail/brighttube/ebfmfbhcjlpkhgfemhccgcphbhjlbpod)
+
+## Install from source (developer mode)
 1. Open `chrome://extensions` and enable Developer mode.
 2. Click "Load unpacked" and choose this folder.
 
