@@ -1,7 +1,7 @@
 # BrightTube
 
-Dim YouTube videos with a simple radio choice: 0%, 10%, 30%, 50%, 70% or 100% brightness.
-用單選鈕調整 YouTube 影片亮度：0%、10%、30%、50%、70%、100%。
+Dim YouTube videos with a simple radio choice: 0%, 10%, 30%, 50%, 70%, 80%, 90% or 100% brightness.
+用單選鈕調整 YouTube 影片亮度：0%、10%、30%、50%、70%、80%、90%、100%。
 
 - A compact black bar appears below the player; the toolbar popup offers the same choices.
 - The setting is stored with `chrome.storage.sync`. No data is collected.

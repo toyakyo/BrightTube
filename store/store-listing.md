@@ -9,13 +9,13 @@
 Adjust the brightness of YouTube videos using a simple radio-button choice.
 
 ## 簡短描述（≤132 字元，已寫在 manifest）
-- EN: Dim YouTube videos with a simple radio choice: 0%, 10%, 30%, 50%, 70% or 100% brightness. Easy on the eyes at night.
-- 繁中: 用單選鈕調整 YouTube 影片亮度：0%、10%、30%、50%、70%、100%，夜間觀看更護眼。
+- EN: Dim YouTube videos with a simple radio choice: 0%, 10%, 30%, 50%, 70%, 80%, 90% or 100% brightness. Easy on the eyes at night.
+- 繁中: 用單選鈕調整 YouTube 影片亮度：0%、10%、30%、50%、70%、80%、90%、100%，夜間觀看更護眼。
 
 ## 詳細說明 — English
 BrightTube lets you change how bright YouTube videos look — with one click, no sliders.
 
-Pick one of six levels: 0%, 10%, 30%, 50%, 70% or 100%.
+Pick one of eight levels: 0%, 10%, 30%, 50%, 70%, 80%, 90% or 100%.
 
 HOW IT WORKS
 • A compact black bar appears right below the video player on the right side. Click a level and the video changes instantly.
@@ -35,7 +35,7 @@ BrightTube is an independent extension and is not affiliated with, endorsed by o
 ## 詳細說明 — 繁體中文
 BrightTube 讓你一鍵調整 YouTube 影片的亮度，不用拉滑桿。
 
-提供六段亮度，用單選方式直接點選：0%、10%、30%、50%、70%、100%。
+提供八段亮度，用單選方式直接點選：0%、10%、30%、50%、70%、80%、90%、100%。
 
 使用方式
 • 影片播放器下方右側會出現一條精簡的黑色選單，點選亮度，影片立即變化。
